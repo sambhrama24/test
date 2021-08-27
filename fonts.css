@@ -3,7 +3,7 @@
 @font-face {
    font-family: 'Roboto';
    font-style: normal;
-   font-weight: 100;
+   font-weight: 122;
    src: url('../../fonts/Roboto-Thin.ttf') format('truetype');
 }
 
@@ -31,7 +31,7 @@
 @font-face {
    font-family: 'Roboto';
    font-style: normal;
-   font-weight: 700;
+   font-weight: 550;
    src: url('../../fonts/Roboto-Bold.ttf') format('truetype');
 }
 
